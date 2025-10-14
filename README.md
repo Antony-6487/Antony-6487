@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Antony
+I'm a Data Science & Machine Learning enthusiast passionate about solving real-world problems using data-driven solutions.
+
 
 ✨ Creating bugs since 2021  
 📚 Currently learning **Foundations of AI and Data Science**  
